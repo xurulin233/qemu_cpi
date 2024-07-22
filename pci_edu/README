@@ -1,0 +1,2 @@
+make ARCH=arm64 CROSS_COMPILE=/home/nessus/buildroot-2022.02.2/output/host/bin/aarch64-buildroot-linux-uclibc-
+make ARCH=arm64 CROSS_COMPILE=/home/nessus/buildroot-2022.02.2/output/host/bin/aarch64-buildroot-linux-uclibc- clean
